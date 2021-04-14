@@ -12,4 +12,4 @@ consta com uma interface desenvolvida em um visor LCD com um teclado matricial,
 que possibilite escolhermos o modo de operação do mesmo.
 ***
 
-Agradecimento especial a todos os integrantes do grupo. 
+Agradecimento especial a todos os integrantes do grupo e professores. 
